@@ -2,4 +2,5 @@ C++
 Python
 java
 dart
-ubuntu
+ubuntu 20.4
+debian
