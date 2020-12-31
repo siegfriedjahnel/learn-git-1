@@ -1,6 +1,3 @@
-C++
-Python
-java
-dart
+
 ubuntu 20.4
 debian
